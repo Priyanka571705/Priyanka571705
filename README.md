@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi, I'm Priyanka 👋
 
-<!--
-**Priyanka571705/Priyanka571705** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am learning cybersecurity and documenting my journey
+through structured notes and hands-on practice.
 
-Here are some ideas to get you started:
+### What I'm learning
+- Cybersecurity fundamentals
+- Networking & Linux basics
+- Web security concepts
+- Security tools like Nmap, Wireshark, and Burp Suite
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My Repositories
+- **cybersecurity-fundamentals** – Core security and SOC basics
+- **cybersecurity-notes** – Tool-based and web security notes
+
+I use GitHub as my personal learning notebook.
