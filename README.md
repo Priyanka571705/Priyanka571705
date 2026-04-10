@@ -115,7 +115,7 @@ To become a **Cybersecurity Analyst / Penetration Tester** with strong practical
 
 # 🤝 Connect
 
-* LinkedIn:linkedin.com/in/priyankakumari90870
+* LinkedIn:https://www.linkedin.com/in/priyankakumari90870/
 * Email:priyankakumari9304775@gmail.com
 
 ---
