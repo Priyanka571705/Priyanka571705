@@ -4,7 +4,7 @@
 
 ### 🔐 Cybersecurity Learner | Aspiring SOC Analyst | Ethical Hacking Enthusiast
 
-*"Learning cybersecurity through hands-on practice, not just theory."*
+*"Learning to secure systems by understanding how they break."*
 
 </div>
 
@@ -115,7 +115,7 @@ To become a **Cybersecurity Analyst / Penetration Tester** with strong practical
 
 # 🤝 Connect
 
-* LinkedIn: https://linkedin.com/in/yourprofile
-* Email: [your.email@example.com](mailto:your.email@example.com)
+* LinkedIn: linkedin.com/in/priyankakumari90870
+* Email:priyankakumari9304775@gmail.com
 
 ---
