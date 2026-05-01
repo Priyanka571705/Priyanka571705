@@ -1,121 +1,63 @@
-# 👋 Hi, I'm Priyanka
+# Hi, I'm Priyanka Kumari
 
-<div align="center">
+### Cybersecurity learner | Aspiring SOC Analyst | Python and data analysis practitioner
 
-### 🔐 Cybersecurity Learner | Aspiring SOC Analyst | Ethical Hacking Enthusiast
+I am a BTech CSE student building practical skills in cybersecurity, SOC analysis, web security, Python, data analysis, and beginner machine learning. My GitHub is organized into two tracks: cybersecurity labs and Python/data/AI practice projects.
 
-*"Learning to secure systems by understanding how they break."*
+> Learning to secure systems by understanding how they break, and using data to explain what is happening clearly.
 
-</div>
+## Cybersecurity Portfolio
 
----
+| Project | Focus | Status |
+| --- | --- | --- |
+| [pentesting-practice-lab](https://github.com/Priyanka571705/pentesting-practice-lab) | Recon, enumeration, exploitation, post-exploitation, web pentesting | Active learning lab |
 
-# 🎯 About Me
+### Cybersecurity Skills
 
-I am a BTech CSE student focused on building real-world cybersecurity skills across:
+- SOC fundamentals: log review, alert triage, SIEM basics, incident workflow
+- Web security: SQL injection, XSS, IDOR, Burp Suite request analysis
+- Network security: Nmap scanning, service discovery, enumeration methodology
+- Lab exploitation: Metasploit basics in controlled vulnerable environments
+- Digital forensics: evidence handling, file/log investigation, timeline thinking
 
-* 💣 Penetration Testing
-* 🛡️ Security Operations (SOC)
-* 🔍 Digital Forensics (DFIR)
+## Python, Data & AI Practice
 
-I believe in **learning by doing**, and I document all my practical work on GitHub.
+| Project | Category | What it shows |
+| --- | --- | --- |
+| [diwali-sales-analysis](https://github.com/Priyanka571705/diwali-sales-analysis) | Data analysis | Retail sales EDA, customer/product insights, visual analysis |
+| [hr-data-analysis](https://github.com/Priyanka571705/hr-data-analysis) | Data analysis | HR metrics, department summaries, workforce trend analysis |
+| [weather-data-analysis](https://github.com/Priyanka571705/weather-data-analysis) | Data analysis | Weather dataset cleaning, exploration, and visualization |
+| [weather-dataset-analysis](https://github.com/Priyanka571705/weather-dataset-analysis) | Data analysis | Weather pattern analysis in Jupyter Notebook |
+| [DataVisualization](https://github.com/Priyanka571705/DataVisualization) | Visualization | Matplotlib and Seaborn chart practice |
+| [linear-regression-salary-prediction](https://github.com/Priyanka571705/linear-regression-salary-prediction) | Machine learning | Simple linear regression for placement package prediction |
+| [multiple-linear-regression-salary-prediction](https://github.com/Priyanka571705/multiple-linear-regression-salary-prediction) | Machine learning | Multiple linear regression for salary prediction |
+| [logistic-regression-student-prediction](https://github.com/Priyanka571705/logistic-regression-student-prediction) | Machine learning | Logistic regression for student pass/fail prediction |
 
----
+### Python/Data Skills
 
-# 🚀 What I Have Practiced (Hands-on)
+- Python, Pandas, NumPy, Matplotlib, Seaborn
+- Jupyter Notebook based EDA workflows
+- Data cleaning, grouping, aggregation, and visualization
+- Beginner machine learning with scikit-learn
+- Regression and classification practice projects
 
-## 🔴 Network & System Pentesting
+## Tools I Use
 
-* Performed **Nmap scanning** to identify open ports and services
-* Conducted **Enumeration (FTP, SMB, SMTP)**
-* Exploited vulnerable services using **Metasploit (vsftpd backdoor)**
-* Gained system access and performed **post-exploitation**
+`Nmap` `Burp Suite` `Metasploit` `Wireshark` `Linux` `Kali Linux` `Python` `Pandas` `NumPy` `scikit-learn` `Jupyter Notebook` `GitHub`
 
----
+## Current Learning Goals
 
-## 🌐 Web Application Security
+- Build stronger SOC investigation notes with sample alerts and detection logic
+- Add defensive takeaways to penetration testing lab notes
+- Improve Python projects with `requirements.txt`, cleaner READMEs, and reproducible notebooks
+- Practice security automation using Python
 
-* Used **Burp Suite** to intercept and modify requests
-* Performed:
+## Career Goal
 
-  * SQL Injection (Login Bypass)
-  * Cross-Site Scripting (XSS)
-  * IDOR (Parameter Manipulation)
+I am seeking an entry-level cybersecurity or SOC internship where I can apply hands-on lab practice, write clear investigation notes, and keep improving through real operational work.
 
----
+## Connect
 
-## 🔵 SOC & Analysis
-
-* Basic understanding of **log analysis**
-* Learning **SIEM tools (Splunk/ELK)**
-* Understanding **incident detection workflow**
-
----
-
-## 🟣 Digital Forensics (Learning Phase)
-
-* File and log investigation basics
-* Understanding evidence collection
-* Learning forensic workflow
-
----
-
-# 🛠️ Tools I Have Used Practically
-
-* 🔍 Nmap (Scanning & Recon)
-* 💣 Metasploit (Exploitation)
-* 🌐 Burp Suite (Web Attacks)
-* 📡 Wireshark (Network Analysis)
-* 🐧 Linux (Kali)
-
----
-
-# 📂 My Projects & Labs
-
-| Project                 | Description                                      |
-| ----------------------- | ------------------------------------------------ |
-| 🔐 pentesting-lab       | Full attack flow (Recon → Exploit → Web Attacks) |
-| 📘 cybersecurity-theory | Networking & security fundamentals               |
-| 🧪 labs                 | Metasploitable2 practical lab                    |
-
----
-
-# 🧠 Skills Gained
-
-```text
-Reconnaissance & Scanning
-Enumeration Techniques
-Exploitation (Metasploit)
-Web Vulnerabilities (SQLi, XSS, IDOR)
-Basic SOC & Log Analysis
-```
-
----
-
-# 📖 Currently Learning
-
-* Advanced Web Pentesting
-* SOC & Threat Detection
-* Digital Forensics (DFIR)
-* Python for Security
-
----
-
-# 🎯 Career Goal
-
-To become a **Cybersecurity Analyst / Penetration Tester** with strong practical skills.
-
----
-
-# 💡 Philosophy
-
-> "Don't just learn tools — understand how attacks work."
-
----
-
-# 🤝 Connect
-
-* LinkedIn:https://www.linkedin.com/in/priyankakumari90870/
-* Email:priyankakumari9304775@gmail.com
-
----
+- Portfolio: [priyanka-cyber.vercel.app](https://priyanka-cyber.vercel.app/)
+- LinkedIn: [priyankakumari90870](https://www.linkedin.com/in/priyankakumari90870/)
+- Email: [priyankakumari9304775@gmail.com](mailto:priyankakumari9304775@gmail.com)
