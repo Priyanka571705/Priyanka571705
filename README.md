@@ -2,7 +2,7 @@
 
 ### Cybersecurity Fresher | SOC Analyst Aspirant | Vulnerability Assessment & Web Security Learner
 
-I am a B.Tech Computer Science Engineering student (2023-2027) focused on cybersecurity, SOC analysis, networking fundamentals, vulnerability assessment, and practical security labs. I use GitHub to document hands-on learning across Nmap scanning, service enumeration, web security testing, Python-based analysis, and beginner machine learning projects.
+I am a B.Tech Computer Science Engineering student (2023-2027) focused on cybersecurity, SOC analysis, networking fundamentals, vulnerability assessment, and practical security labs. I use GitHub to document hands-on learning across Nmap scanning, Wireshark packet analysis, SIEM-style log monitoring, web security testing, OSINT investigation, Python-based analysis, and beginner machine learning projects.
 
 > Goal: Build strong fundamentals in monitoring, threat detection, vulnerability assessment, and clear security reporting for an entry-level SOC Analyst role.
 
@@ -14,18 +14,25 @@ I am a B.Tech Computer Science Engineering student (2023-2027) focused on cybers
 | Networking | TCP/IP, OSI model, ports and protocols, HTTP, DNS, TCP traffic understanding |
 | Vulnerability Assessment | Nmap scanning, service/version detection, open port analysis, risk documentation |
 | Web Security | OWASP Top 10 basics, SQL Injection, XSS, IDOR, request analysis with Burp Suite |
+| OSINT & Forensics | Fake website investigation, WHOIS, VirusTotal, SSL certificate inspection |
 | Security Tools | Nmap, Wireshark, Burp Suite, Metasploit, Nessus, Shodan |
 | Platforms | Kali Linux, Linux basics, Windows, Git, GitHub |
 
 ## Cybersecurity Portfolio
 
-| Project / Lab | Focus | Status |
+| Project / Lab | Focus | Link |
 | --- | --- | --- |
-| [pentesting-practice-lab](https://github.com/Priyanka571705/pentesting-practice-lab) | Recon, enumeration, exploitation, post-exploitation, SQLi, XSS, IDOR | Active lab documentation |
-| Network Scanning & Vulnerability Analysis | Nmap, open ports, services, vulnerability assessment | Resume lab; GitHub expansion planned |
-| Network Traffic Analysis using Wireshark | HTTP, DNS, TCP traffic review and suspicious packet analysis | Resume lab; GitHub expansion planned |
-| SIEM Dashboard Analysis | Alert review, event monitoring, log correlation, SOC workflow | Resume lab; GitHub expansion planned |
-| Fake Website Detection Tool | Python-based phishing/suspicious URL analysis | Resume project; GitHub expansion planned |
+| Pentesting Practice Lab | Recon, enumeration, exploitation, post-exploitation, SQLi, XSS, IDOR | [Repository](https://github.com/Priyanka571705/pentesting-practice-lab) |
+| Fake Website Detection OSINT | WHOIS, VirusTotal, SSL inspection, phishing/fake website analysis | [Repository](https://github.com/Priyanka571705/fake-website-detection-osint) |
+| Network Traffic Analysis with Wireshark | DNS, HTTP, HTTPS/TLS, TCP, ARP, retransmissions, packet analysis | [Repository](https://github.com/Priyanka571705/network-traffic-analysis-wireshark) |
+| SIEM Dashboard Threat Detection | Python/Flask SOC simulation, log analysis, rule-based alerts | [Repository](https://github.com/Priyanka571705/siem-dashboard-threat-detection) |
+
+## Additional Research & Case Studies
+
+These reports are useful for interview discussion, but I am keeping them off public GitHub until confidential/institution-specific details are removed:
+
+- WannaCry Ransomware Technical Case Study
+- Deepfake-Enabled Cybercrime in India Research Paper
 
 ## Python, Data & AI Practice
 
@@ -57,14 +64,14 @@ I am a B.Tech Computer Science Engineering student (2023-2027) focused on cybers
 
 ## Technical Skills
 
-`TCP/IP` `OSI Model` `Ports & Protocols` `Vulnerability Assessment` `OWASP Top 10` `Nmap` `Wireshark` `Burp Suite` `Metasploit` `Nessus` `Shodan` `Kali Linux` `Python` `Pandas` `NumPy` `Matplotlib` `Seaborn` `scikit-learn` `Git` `GitHub`
+`TCP/IP` `OSI Model` `Ports & Protocols` `Vulnerability Assessment` `OWASP Top 10` `Nmap` `Wireshark` `Burp Suite` `Metasploit` `Nessus` `Shodan` `Kali Linux` `Python` `Flask` `Pandas` `NumPy` `Matplotlib` `Seaborn` `scikit-learn` `Git` `GitHub`
 
 ## Current GitHub Improvement Plan
 
-- Add detailed writeups for Wireshark traffic analysis and SIEM dashboard practice
-- Add the Fake Website Detection Tool as a dedicated Python cybersecurity project
-- Add screenshots, sanitized outputs, and finding templates to security labs
-- Keep Python/data projects as a secondary skill track, while positioning cybersecurity/SOC as the main career target
+- Add source code and sample sanitized logs to the SIEM dashboard project
+- Add screenshots and sanitized outputs to the Wireshark and pentesting labs
+- Add a Python implementation to the fake website detection project
+- Create sanitized public summaries for WannaCry and Deepfake research if institution-specific details are removed
 
 ## Career Goal
 
